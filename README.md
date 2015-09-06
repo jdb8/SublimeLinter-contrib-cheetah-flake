@@ -13,11 +13,10 @@ Before using this plugin, you must ensure that `cheetah-flake` is installed on y
 
 1. Install [Python](http://python.org/download/) and [pip](http://www.pip-installer.org/en/latest/installing.html).
 
-1. Install `cheetah-flake`* by typing the following in a terminal:
+1. Install `cheetah-flake` by typing the following in a terminal:
    ```
    [sudo] pip install cheetah_lint
    ```
-
 
 ### Linter configuration
 In order for `cheetah-flake` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
