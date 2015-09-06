@@ -1,0 +1,10 @@
+SublimeLinter-contrib-cheetah-flake
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to cheetah-flake.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/jdb8/SublimeLinter-contrib-cheetah-flake
