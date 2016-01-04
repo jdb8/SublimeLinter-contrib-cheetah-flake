@@ -1,7 +1,7 @@
 SublimeLinter-contrib-cheetah-flake
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-cheetah-flake.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-cheetah-flake)
+[![Build Status](https://travis-ci.org/jdb8/SublimeLinter-contrib-cheetah-flake.svg?branch=master)](https://travis-ci.org/jdb8/SublimeLinter-contrib-cheetah-flake)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [cheetah-flake](https://github.com/asottile/cheetah_lint). It will be used with files that have the “yelpcheetah” syntax.
 
