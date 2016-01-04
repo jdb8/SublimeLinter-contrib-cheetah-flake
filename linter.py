@@ -16,7 +16,6 @@ from SublimeLinter.lint import PythonLinter, util
 
 
 class CheetahFlake(PythonLinter):
-
     """Provides an interface to cheetah-flake."""
 
     syntax = 'yelpcheetah'
